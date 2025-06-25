@@ -80,7 +80,9 @@ public class LogicaClasificacion {
             ordenada.add(0, pilaAuxiliar.pop()); // Insertar al inicio para invertir el orden
         }
         return ordenada;
+        
     }
+
 
     /**
      * Clasifica una lista de enteros separando pares e impares.
